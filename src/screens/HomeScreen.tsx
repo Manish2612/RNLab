@@ -47,6 +47,16 @@ const HomeScreen = props => {
                     </Styled.link>
                 </Styled.row>
             </TouchableOpacity>
+            <TouchableOpacity onPress={() => goTo('StripedCarousel')} activeOpacity={0.5}>
+                <Styled.row>
+                    <Styled.link>
+                    Striped Carousel
+                </Styled.link>
+                    <Styled.link>
+                        {'>'}
+                    </Styled.link>
+                </Styled.row>
+            </TouchableOpacity>
         </Styled.Root>
     );
 }
