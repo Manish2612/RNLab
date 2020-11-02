@@ -1,8 +1,12 @@
 # React-native UI Experiments
 
-### 1. Instagram/Messenger like gradient background in chat messages
-<img src="gradient-chat.gif?raw=true" alt="gradient-chat.gif" height="555">
-
-
-### 2. Striped Carousel 60FPS
-<img src="https://github.com/Manish2612/RNLab/blob/main/assets/StripedCarousel.gif" height="555" />
+<table border="0">
+ <tr>
+    <td><b style="font-size:30px; padding: 160x 0px;">Instagram/Messenger like gradient background in chat messages</b></td>
+    <td><b style="font-size:30px">Striped Carousel 60FPS</b></td>
+ </tr>
+ <tr>
+    <td><img src="gradient-chat.gif" alt="gradient-chat.gif" height="555"></td>
+    <td><img src="StripedCarousel.gif" height="555" /></td>
+ </tr>
+</table>
